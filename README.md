@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Jess
+# Hi there 👋 I'm Jess
 <hr>
 About Me
-
+-
 
 - 🔭 I’m currently studying on University of Mindanao 
 - 🌱 I’m currently learning Full-Stack Development
