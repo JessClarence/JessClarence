@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jess
 <hr>
-About Me
+###About Me
 - 🌱 React, NodeJS, MongoDB - MERN stack specialist.
 - 💼 Front-end Developer.
 - 🤔 Looking forward to study 🖥️ML and ☁️Cloud Computing
