@@ -7,3 +7,10 @@
 - 💬 I'm open to chat about Computers and Technology 🤩
 - 🎮 Gaming in my Free Time
 
+### Tech Stack
+
+- 💻 Reactjs, Nodejs, HTML5, CSS3, Javascript
+- 🛢 MongoDB 
+- ⚙️ Git, Github
+- 🔧 Visual Studio Code
+
