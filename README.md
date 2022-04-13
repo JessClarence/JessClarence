@@ -11,7 +11,7 @@
 ### Tech Stack
 
 - 💻 Reactjs, Nodejs, HTML5, CSS3, Javascript
-- 🛢 MongoDB 
+- 🛢 MongoDB, Internet Computer Protocol (ICP)
 - ⚙️ Git, Github
 - 🔧 Visual Studio Code
 
