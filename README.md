@@ -3,7 +3,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About Me
 - 🌱 React, NodeJS, MongoDB - MERN stack specialist.
-- 💼 Front-end Developer.
+- ⚙️ ASP.NET Experience Developer.
+- 💼 Full Stack Developer.
 - 🤔 Looking forward to study 🖥️ML and ☁️Cloud Computing
 - 💬 I'm open to chat about Computers and Technology 🤩
 - 🎮 Gaming in my Free Time
